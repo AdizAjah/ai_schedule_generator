@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class GeminiService {
   // API Key - GANTI dengan milikmu (jangan hardcode di production!)
-  static const String apiKey = "YOUR_API_KEY";
+  static const String apiKey = "AIzaSyCai5U84qvAWLzGk0EaRRrw35FZ-SM6Npw";
 
   // Gunakan model stabil terbaru (per 2026: gemini-1.5-flash atau gemini-1.5-flash-latest)
   static const String model =

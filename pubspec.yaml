@@ -45,6 +45,7 @@ dependencies:
   googleapis_auth: ^1.6.0
   # Preview tampilan di berbagai ukuran device saat development
   device_preview: ^1.3.1
+  google_sign_in: ^6.2.1  # Untuk autentikasi user Google
 
 dev_dependencies:
   flutter_test:
